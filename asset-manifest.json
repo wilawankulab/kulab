@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kulab/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kulab/static/js/main.6d45a5aa.chunk.js",
+    "main.js.map": "/kulab/static/js/main.6d45a5aa.chunk.js.map",
+    "runtime-main.js": "/kulab/static/js/runtime-main.c8c7d3cc.js",
+    "runtime-main.js.map": "/kulab/static/js/runtime-main.c8c7d3cc.js.map",
+    "static/js/2.d3f8a98e.chunk.js": "/kulab/static/js/2.d3f8a98e.chunk.js",
+    "static/js/2.d3f8a98e.chunk.js.map": "/kulab/static/js/2.d3f8a98e.chunk.js.map",
+    "static/js/3.7b79bbec.chunk.js": "/kulab/static/js/3.7b79bbec.chunk.js",
+    "static/js/3.7b79bbec.chunk.js.map": "/kulab/static/js/3.7b79bbec.chunk.js.map",
+    "index.html": "/kulab/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kulab/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d3f8a98e.chunk.js.LICENSE.txt": "/kulab/static/js/2.d3f8a98e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kulab/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8c7d3cc.js",
+    "static/js/2.d3f8a98e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6d45a5aa.chunk.js"
+  ]
+}
